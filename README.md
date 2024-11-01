@@ -39,8 +39,7 @@ To analyze a speech, you need to upload an audio file. Follow these steps:
     Open [http://localhost:3000](http://localhost:3000).
 
 2. **Upload your audio file**  
-    Click on the "Upload Audio" button and select the audio file you want to analyze.
-    3. **Homepage Screenshot**  
+    Click on the "Upload Audio" button and select the audio file you want to analyze. 
         ![Homepage Screenshot](public/screenshots/homepage.png)
 
 3. **Start Analysis**  
