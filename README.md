@@ -30,9 +30,6 @@ This project provides a powerful tool for transcribing speech and analyzing sent
 4. **View in browser**  
     Open [http://localhost:3000](http://localhost:3000) to see the project.
 
-## Screenshots
-
-![Transcription Screenshot](path/to/transcription-screenshot.png)
 
 ## Add Audio File
 
